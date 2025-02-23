@@ -1,6 +1,11 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"青竹 6.13 毕业礼物设计网站",
+    "subTitle":"本网站仅供交流和纪念，礼物送出之前严禁老师访问",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "email":"2474156326@qq.com",
+    "startSite":"23/02/2025",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "singlePage":["about"],
     "GMEEK_VERSION":"last"
 }
